@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! You can call me Yaz and I'm I’m interested in Cs.Net.python. problemsolving,  I’m currently learning C#, system developer , I’m looking to collaborate on kod writing</h2>
+<h2 align="left">Hi 👋! You can call me Yaz and I’m interested in Cs.Net.python. problemsolving,  I’m currently learning C#, system developer , I’m looking to collaborate on code writing</h2>
 
 
 
